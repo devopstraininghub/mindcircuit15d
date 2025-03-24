@@ -5,7 +5,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>mindcircuitbatch15d</artifactId>
-    <version>2.2.0</version>
+    <version>2.2.1</version>
     <packaging>war</packaging>
 
 	<properties>
